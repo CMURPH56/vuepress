@@ -1,3 +1,3 @@
-::: tip
-this is a tip
-:::
+# Hello and Welcome to my blog with Vue Press
+
+1. Blog Ideas
