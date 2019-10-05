@@ -1,3 +1,3 @@
 # Hello and Welcome to my blog with Vue Press
 
-1. step one
+This blog will contain an about me section, an algorithm section, and a general blog section.
